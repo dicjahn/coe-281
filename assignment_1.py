@@ -5,7 +5,7 @@ emails.sort()
 
 emails.append('Kofi@Gmail.com')
 
-del emails[2]
+del emails[1]
 
 print(len(emails))
 
